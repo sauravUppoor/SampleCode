@@ -10,10 +10,14 @@ The algorithm has been tested on various types of graphs like:
  - Boost C++ Library
 
 ### Compilation
-``` c++ -I path/to/boost_1_75_0 example.cpp -o example ```
+```
+c++ -I path/to/boost_1_75_0 example.cpp -o example 
+```
 
 ### Run
-``` ./example```
+```
+./example
+```
 
 More details: https://boost.org/doc/libs/1_75_0/more/getting_started/unix-variants.html
 
