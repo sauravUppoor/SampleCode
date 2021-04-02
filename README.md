@@ -22,10 +22,13 @@ c++ -I path/to/boost_1_75_0 example.cpp -o example
 More details: https://boost.org/doc/libs/1_75_0/more/getting_started/unix-variants.html
 
 ### Visualisation
-1. Weighted undirected graph
+1. Unweighted directed graph (pgRouting sample data)
 
 <p align="center">
-  <img src="https://github.com/sauravUppoor/SampleCode/blob/main/img/ex1.gif" alt="gif1" width="350px">
+  <img src="https://github.com/sauravUppoor/SampleCode/blob/main/img/ex1.gif" alt="gif1" width="450px">
 </p>
 
-2. Unweighted directed graph (pgRouting sample data)
+2. Weighted undirected graph 
+<p align="center">
+  <img src="https://github.com/sauravUppoor/SampleCode/blob/main/img/ex2.gif" alt="gif1" width="450px">
+</p>
