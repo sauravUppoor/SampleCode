@@ -23,6 +23,9 @@ More details: https://boost.org/doc/libs/1_75_0/more/getting_started/unix-varian
 
 ### Visualisation
 1. Weighted undirected graph
-!()[./img/ex1.gif]
+
+<p align="center">
+  <img src="https://github.com/sauravUppoor/SampleCode/blob/main/img/ex1.gif" alt="gif1">
+</p>
 
 2. Unweighted directed graph (pgRouting sample data)
