@@ -1,3 +1,4 @@
+### About
 This repository contains codes used for testing various examples for the proposal. The algorithm I proposed to implement is `Brandes' Betweenness Centrality` which is used to calculate centrality values of each node.
 
 The algorithm has been tested on various types of graphs like:
